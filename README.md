@@ -17,8 +17,9 @@ for a cybersecurity classification problem (spam detection).
 - Accuracy: ~91%
 - Confusion Matrix used for evaluation
 
-## Colab Notebook
-https://colab.research.google.com/drive/1VIuA6qucXseUvyxIYnrJ9-0OsYzE67-M?usp=sharing
+## View Notebook (Recommended)
+- Colab: https://colab.research.google.com/drive/1VIuA6qucXseUvyxIYnrJ9-0OsYzE67-M?usp=sharing
+- Nbviewer: https://nbviewer.org/github/nchorgoliani25-dotcom/ml-cybersecurity-classification/blob/main/ML_Cybersecurity_Classification.ipynb
 
 ## Author
 Nika Chorgoliani
